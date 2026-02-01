@@ -2,3 +2,4 @@ git
 build-essential
 ninja-build
 python3-dev
+libgl1
